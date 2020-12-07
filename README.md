@@ -1,0 +1,1 @@
+# git-hound-config
